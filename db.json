@@ -1,0 +1,103 @@
+{
+  "boards": [
+    {
+      "name": "Home",
+      "description": "no descr",
+      "createdAt": "2022-09-28T09:35:52.406Z",
+      "id": 7
+    },
+    {
+      "name": "New Car",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "createdAt": "2022-09-28T11:45:10.030Z",
+      "id": 8
+    },
+    {
+      "name": "Movies",
+      "description": "descr new board 33",
+      "createdAt": "2022-10-31T18:52:36.735Z",
+      "id": 10
+    }
+  ],
+  "tasks": [
+    {
+      "id": 4,
+      "createdAt": "2022-09-28T11:45:10.030Z",
+      "name": "clean",
+      "status": "in progress",
+      "boardId": 7
+    },
+    {
+      "name": "wash",
+      "status": "to do",
+      "createdAt": "2022-10-17T14:58:18.229Z",
+      "boardId": 8,
+      "id": 29
+    },
+    {
+      "name": "refuel",
+      "status": "done",
+      "createdAt": "2022-10-17T14:58:33.986Z",
+      "boardId": 8,
+      "id": 31
+    },
+    {
+      "name": "wow",
+      "status": "to do",
+      "createdAt": "2022-10-17T14:58:42.551Z",
+      "boardId": 8,
+      "id": 32
+    },
+    {
+      "name": "order pizza",
+      "status": "to do",
+      "createdAt": "2022-10-19T21:45:46.338Z",
+      "boardId": 7,
+      "id": 39
+    },
+    {
+      "name": "sleep",
+      "status": "in progress",
+      "createdAt": "2022-10-26T09:44:23.130Z",
+      "boardId": 7,
+      "id": 40
+    },
+    {
+      "name": "drink",
+      "status": "to do",
+      "createdAt": "2022-10-26T10:35:36.875Z",
+      "boardId": 7,
+      "id": 41
+    },
+    {
+      "name": "eat",
+      "status": "in progress",
+      "createdAt": "2022-10-26T10:35:42.959Z",
+      "boardId": 7,
+      "id": 42
+    },
+    {
+      "name": "wash",
+      "status": "done",
+      "createdAt": "2022-10-26T10:35:47.445Z",
+      "boardId": 7,
+      "id": 43
+    },
+    {
+      "name": "whitcher 3",
+      "status": "to do",
+      "createdAt": "2022-11-05T15:02:40.208Z",
+      "boardId": 10,
+      "id": 59
+    }
+  ],
+  "comments": [
+    {
+      "createdAt": "2022-11-06T13:49:44.810Z",
+      "text": "",
+      "taskId": 32,
+      "boardId": 8,
+      "id": 1
+    }
+  ]
+}
